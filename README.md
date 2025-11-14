@@ -16,7 +16,7 @@ Ao final do material, espera-se que o aluno seja capaz de:
 3. Aplicar operadores aritméticos e reconhecer a precedência entre eles.
 
 ## Mapa conceitual
-- Link: https://cmapscloud.ihmc.us:443/rid=21Y93P6CS-3WT0FR-CMNDCW
+- Link: https://cmapscloud.ihmc.us:443/rid=21Y93P6CS-3WT0FR-CMNDCW 
 
 ## Modelo instrucional
 - Arquivo Astah do modelo instrucional: [modelo instrucional (.asta)](mi.asta)
