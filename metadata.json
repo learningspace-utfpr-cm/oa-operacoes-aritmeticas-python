@@ -1,0 +1,132 @@
+{
+  "lom": {
+    "general": {
+      "title": {
+        "string": {
+          "language": "pt-BR",
+          "value": "Operações Aritméticas em Python — Objeto de Aprendizagem"
+        }
+      },
+      "description": {
+        "string": {
+          "language": "pt-BR",
+          "value": "Este Objeto de Aprendizagem consiste em um notebook desenvolvido no Google Colab, criado para ensinar, de forma prática e guiada, as operações matemáticas básicas em Python: soma, subtração, multiplicação e divisão. O material apresenta explicações teóricas, exemplos executáveis, exercícios práticos e células de correção, possibilitando ao aluno compreender operadores, tipos numéricos e regras de precedência. Inclui ainda uma breve introdução ao uso do Google Colab para alunos iniciantes."
+        }
+      },
+      "keyword": [
+        {
+          "string": {
+            "language": "pt-BR",
+            "value": "Python"
+          }
+        },
+        {
+          "string": {
+            "language": "pt-BR",
+            "value": "Operações aritméticas"
+          }
+        },
+        {
+          "string": {
+            "language": "pt-BR",
+            "value": "Google Colab"
+          }
+        },
+        {
+          "string": {
+            "language": "pt-BR",
+            "value": "Ensino fundamental"
+          }
+        },
+        {
+          "string": {
+            "language": "pt-BR",
+            "value": "Programação para iniciantes"
+          }
+        }
+      ],
+      "language": "pt-BR"
+    },
+    "lifeCycle": {
+      "version": {
+        "string": "1.0"
+      },
+      "status": {
+        "string": "final"
+      },
+      "contribute": [
+        {
+          "role": {
+            "string": "author"
+          },
+          "entity": {
+            "string": "Enzo da Silva Azevedo"
+          },
+          "date": {
+            "dateTime": "2025-12-10"
+          }
+        },
+        {
+          "role": {
+            "string": "author"
+          },
+          "entity": {
+            "string": "Igor Diogo Bueno Pimenta"
+          },
+          "date": {
+            "dateTime": "2025-12-10"
+          }
+        }
+      ]
+    },
+    "technical": {
+      "format": "application/x-ipynb+json",
+      "location": "Operações_Aritméticas.ipynb",
+      "size": 42348
+    },
+    "educational": {
+      "learningResourceType": {
+        "string": {
+          "language": "pt-BR",
+          "value": "tutorial"
+        }
+      },
+      "interactivityType": {
+        "string": "active"
+      },
+      "intendedEndUserRole": {
+        "string": "learner"
+      },
+      "context": {
+        "string": {
+          "language": "pt-BR",
+          "value": "ensino fundamental II; ensino médio; cursos introdutórios"
+        }
+      },
+      "typicalLearningTime": {
+        "duration": "PT00H45M"
+      },
+      "description": {
+        "string": {
+          "language": "pt-BR",
+          "value": "Objetivos de aprendizagem: 1) Entender e aplicar as quatro operações básicas em Python; 2) Manipular adequadamente números inteiros; 3) Aplicar operadores e reconhecer a precedência entre eles; 4) Executar exemplos e resolver exercícios no ambiente Google Colab."
+        }
+      },
+      "language": "pt-BR"
+    },
+    "rights": {
+      "cost": {
+        "string": "no"
+      },
+      "copyrightAndOtherRestrictions": {
+        "string": "yes"
+      },
+      "description": {
+        "string": {
+          "language": "pt-BR",
+          "value": "Este material está licenciado sob Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). Consulte o arquivo LICENSE para obter o texto legal completo."
+        }
+      }
+    }
+  }
+}
