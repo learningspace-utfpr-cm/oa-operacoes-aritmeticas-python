@@ -41,6 +41,8 @@ Ao final do material, espera-se que o aluno seja capaz de:
 - Clique na imagem para acessar o arquivo do Astah (.asta):
 [![Modelo Instrucional](mi.jpg)](mi.asta)
 
+[Visualizar imagem em alta resolução](mi.png)
+
 ## Licença
 Licenciado sob CC BY-NC 4.0  
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)](LICENSE)
